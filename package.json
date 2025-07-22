@@ -24,8 +24,6 @@
     "bootstrap": "3.1.1",
     "browserstacktunnel-wrapper": "2.0.4",
     "canonical-path": "0.0.2",
-    "changez": "^2.1.1",
-    "changez-angular": "^2.1.2",
     "cheerio": "^0.17.0",
     "commitizen": "^4.2.4",
     "commitplease": "^2.7.10",
