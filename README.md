@@ -1,3 +1,15 @@
+# 修正箇所
+- Fileオブジェクトでもangular.copy() 時に Illegal invocation のエラーが出ないようにする
+- Fileオブジェクトの場合は、そのまま返す
+
+# ビルド方法
+```
+yarn remove changez-angular changez --ignore-optional
+yarn install --ignore-optional
+sudo apt install openjdk-17-jdk -y
+yarn grunt package
+```
+
 AngularJS [![CircleCI](https://circleci.com/gh/angular/angular.js/tree/master.svg?style=shield)](https://circleci.com/gh/angular/workflows/angular.js/tree/master)
 =========
 
