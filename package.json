@@ -90,7 +90,7 @@
     "sauce-connect": "https://saucelabs.com/downloads/sc-4.6.2-linux.tar.gz",
     "sax": "^1.1.1",
     "selenium-webdriver": "^4.0.0-alpha.1",
-    "semver": "^5.4.1",
+    "semver": "^5.7.2",
     "serve-favicon": "^2.3.0",
     "serve-index": "^1.8.0",
     "serve-static": "^1.11.1",
